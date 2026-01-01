@@ -50,7 +50,6 @@
 <li><a href="https://narona.pw">Narona</a> - A platform to manage coffee shop's and restaurant's.</li>
 <li><a href="https://automation.tarahanco.com">Shora yar (Official Automation)</a> - Official Automation is a web-based solution designed to streamline administrative processes for councils and governmental organizations.</li>
 <li><a href="https://ridino.vercel.app">Ridino</a> - A platform for buy & sell cars easly.</li>
-<li><a href="https://mahamgostar.com">Maham gostar</a> - An IT company that provides services such as website design and various systems.</li>
 </ul>
 
 ###
