@@ -60,8 +60,7 @@
 
 <ul dir="auto">
 <li><a href="https://www.linkedin.com/in/amirrahimnezhad" rel="nofollow">LinkedIn</a></li>
-<li><a href="https://github.com/AmirRhDev">GitHub</a></li>
-<li><a href="https://amirrahimnezhad.ir" rel="nofollow">Portfolio</a></li>
+<li><a href="https://rahimnezhad.vercel.app" rel="nofollow">Portfolio</a></li>
 <li><a href="https://dev.to/amirrhdev" rel="nofollow">Dev.to</a></li>
 </ul>
 
